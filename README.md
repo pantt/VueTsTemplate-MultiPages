@@ -1,4 +1,7 @@
-# vue-demo
+# VueTsTemplate-MultiPages-demo
+欢迎关注我的博客：https://blog.csdn.net/Vanilla1119
+
+有什么问题欢迎一起讨论
 
 > A Vue.js project
 
